@@ -17,6 +17,7 @@ namespace ClassMetotDemo
         }
         public void Listele(int MusteriID,string MusteriIsim,string MusteriSoyad,bool MusteriKrediAlabilme)
         {
+            Console.WriteLine("Listelendi");
 
         }
     }
